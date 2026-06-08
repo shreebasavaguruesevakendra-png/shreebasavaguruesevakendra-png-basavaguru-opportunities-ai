@@ -1,0 +1,109 @@
+[
+  {
+    "id": "students",
+    "label": "Students",
+    "keywords": [
+      "scholarship",
+      "ssp",
+      "nsp",
+      "minority",
+      "sc/st",
+      "hostel",
+      "kcet",
+      "neet",
+      "iti",
+      "diploma",
+      "degree",
+      "nursing",
+      "admission",
+      "skill development"
+    ]
+  },
+  {
+    "id": "job_seekers",
+    "label": "Job Seekers",
+    "keywords": [
+      "job",
+      "recruitment",
+      "kpsc",
+      "ssc",
+      "upsc",
+      "railway",
+      "bank",
+      "police",
+      "forest",
+      "village accountant",
+      "pdo",
+      "india post",
+      "apprentice",
+      "employment fair"
+    ]
+  },
+  {
+    "id": "women",
+    "label": "Women",
+    "keywords": [
+      "gruha lakshmi",
+      "shakti",
+      "women",
+      "shg",
+      "self help group",
+      "widow",
+      "maternity",
+      "entrepreneurship"
+    ]
+  },
+  {
+    "id": "labour_workers",
+    "label": "Labour Workers",
+    "keywords": [
+      "labour",
+      "labor",
+      "welfare board",
+      "labour card",
+      "marriage assistance",
+      "education assistance",
+      "housing benefit",
+      "accident compensation"
+    ]
+  },
+  {
+    "id": "farmers",
+    "label": "Farmers",
+    "keywords": [
+      "farmer",
+      "pm-kisan",
+      "crop insurance",
+      "subsidy",
+      "irrigation",
+      "dairy",
+      "horticulture",
+      "animal husbandry"
+    ]
+  },
+  {
+    "id": "senior_citizens",
+    "label": "Senior Citizens",
+    "keywords": [
+      "senior citizen",
+      "old age",
+      "pension",
+      "disability",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "public_services",
+    "label": "Public Services",
+    "keywords": [
+      "bus pass",
+      "aadhaar",
+      "pan",
+      "ration card",
+      "voter id",
+      "income certificate",
+      "caste certificate",
+      "certificate"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "SSP Karnataka",
+    "url": "https://ssp.postmatric.karnataka.gov.in/",
+    "type": "website",
+    "category_hint": "students",
+    "enabled": true
+  },
+  {
+    "name": "Seva Sindhu Karnataka",
+    "url": "https://sevasindhu.karnataka.gov.in/",
+    "type": "website",
+    "category_hint": "public_services",
+    "enabled": true
+  },
+  {
+    "name": "Karnataka One",
+    "url": "https://www.karnatakaone.gov.in/",
+    "type": "website",
+    "category_hint": "public_services",
+    "enabled": true
+  },
+  {
+    "name": "National Scholarship Portal",
+    "url": "https://scholarships.gov.in/",
+    "type": "website",
+    "category_hint": "students",
+    "enabled": true
+  },
+  {
+    "name": "KPSC",
+    "url": "https://kpsc.kar.nic.in/",
+    "type": "website",
+    "category_hint": "job_seekers",
+    "enabled": true
+  },
+  {
+    "name": "Karnataka Examinations Authority",
+    "url": "https://kea.kar.nic.in/",
+    "type": "website",
+    "category_hint": "students",
+    "enabled": true
+  },
+  {
+    "name": "SSC",
+    "url": "https://ssc.gov.in/",
+    "type": "website",
+    "category_hint": "job_seekers",
+    "enabled": true
+  },
+  {
+    "name": "UPSC",
+    "url": "https://upsc.gov.in/",
+    "type": "website",
+    "category_hint": "job_seekers",
+    "enabled": true
+  },
+  {
+    "name": "India Post",
+    "url": "https://www.indiapost.gov.in/",
+    "type": "website",
+    "category_hint": "job_seekers",
+    "enabled": true
+  }
+]
